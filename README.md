@@ -2,7 +2,7 @@
 #### I am a beginner developer who is still in the process of learning
 ![I am a beginner developer who is still in the process of learning](https://img.freepik.com/free-vector/tiny-people-gamers-playing-online-video-game-huge-joystick-clock_335657-2448.jpg?w=1380)
 
-I created this project while learning JavaScript. In this game you can play with the computer
+I created this project while learning React. This is a grocery list
 
 Skills: REACT / JS / Bootstrap-5 / HTML / CSS
 
